@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://shaheer-amjad-portfolio.netlify.app/](https://shaheer-amjad-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Shaheer's Portfolio](https://shaheerbyhisollabs.me/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/shaheer-amjad-software-engineer/](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **stansari4500@gmail.com**
 
-- 📄 Know about my experiences [https://shaheer-amjad-portfolio.netlify.app/](https://shaheer-amjad-portfolio.netlify.app/)
+- 📄 Know about my experiences [Shaheer's Portfolio](https://shaheerbyhisollabs.me/)
 
 - ⚡ Fun fact **Aim Happy Coding**
 
