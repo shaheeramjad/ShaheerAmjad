@@ -1,39 +1,114 @@
-<h1 align="center">Hi 👋, I'm Shaheer Amjad</h1>
-<h3 align="center">Passionate About Construction, Human Centered Architecture, Computational Studies</h3>
+# 👋 Hi, I'm Shaheer Amjad
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheeramjad&label=Profile%20views&color=0e75b6&style=flat" alt="shaheeramjad" /> </p>
+### 🏗️ Software Engineer | Architecture Enthusiast | Full-Stack Developer
 
-- 🔭 I’m currently working on **Software Development**
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shaheerbyhisollabs.me/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheer-amjad-software-engineer)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dev_shaheer530)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dev_shaheer)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=shaheeramjad&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **System Design, DevOps**
+</div>
 
-- 👯 I’m looking to collaborate on **Open Source**
+---
 
-- 👨‍💻 All of my projects are available at [Shaheer's Portfolio](https://shaheerbyhisollabs.me/)
+## 🚀 About Me
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/shaheer-amjad-software-engineer/](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
+Passionate software engineer with a unique blend of **construction industry insights** and **cutting-edge technology expertise**. I specialize in creating human-centered architectural solutions through computational studies and modern web development.
 
-- 💬 Ask me about **React, Asp.Net Core Web Api**
+- 🔧 Currently working on **Enterprise Software Development** & **System Architecture**
+- 📚 Learning **Advanced System Design** & **DevOps Engineering**  
+- 🤝 Open to collaborate on **Open Source Projects** & **Innovative Solutions**
+- ✍️ Sharing insights on [LinkedIn](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
+- 🎯 **Fun Fact:** I believe in "Happy Coding" - making development enjoyable and impactful!
 
-- 📫 How to reach me **stansari4500@gmail.com**
+---
 
-- 📄 Know about my experiences [Shaheer's Portfolio](https://shaheerbyhisollabs.me/)
+## 💼 Tech Stack
 
-- ⚡ Fun fact **Aim Happy Coding**
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dev_shaheer530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_shaheer530" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shaheer-amjad-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaheer-amjad-software-engineer" height="30" width="40" /></a>
-<a href="https://fb.com/shaheeramjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaheeramjad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dev_shaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_shaheer" height="30" width="40" /></a>
-</p>
+### Backend Development
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078d4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheeramjad&show_icons=true&locale=en&layout=compact" alt="shaheeramjad" /></p>
+### Databases
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaheeramjad&show_icons=true&locale=en" alt="shaheeramjad" /></p>
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheeramjad&" alt="shaheeramjad" /></p>
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaheeramjad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheeramjad&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaheeramjad&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+```typescript
+const shaheer = {
+    specialties: ["Full-Stack Development", "System Architecture", "API Design"],
+    currentFocus: ["Microservices", "Cloud Solutions", "DevOps Practices"],
+    architecture: ["Human-Centered Design", "Scalable Systems", "Clean Code"],
+    collaboration: ["Agile Methodologies", "Code Reviews", "Technical Leadership"]
+};
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing innovative projects, career opportunities, and tech collaborations!
+
+- 💼 **Portfolio:** [shaheerbyhisollabs.me](https://shaheerbyhisollabs.me/)
+- 📧 **Email:** stansari4500@gmail.com  
+- 💼 **LinkedIn:** [Shaheer Amjad - Software Engineer](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
+- 🐦 **Twitter:** [@dev_shaheer530](https://twitter.com/dev_shaheer530)
+
+---
+
+<div align="center">
+  
+  **"Building tomorrow's solutions with today's technology"**
+  
+  ⭐️ From [Shaheer Amjad](https://github.com/shaheeramjad)
+
+</div>
