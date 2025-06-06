@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaheer Amjad
 
-### 🏗️ Software Engineer | Architecture Enthusiast | Full-Stack Developer
+### Software Engineer | Architecture Enthusiast | Full-Stack Developer
 
 <div align="center">
   
