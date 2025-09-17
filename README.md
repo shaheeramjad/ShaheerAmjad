@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shaheer Amjad
+# Hi, I'm Shaheer Amjad
 
 ### Software Engineer | Architecture Enthusiast | Full-Stack Developer
 
@@ -15,19 +15,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Passionate software engineer with a unique blend of **construction industry insights** and **cutting-edge technology expertise**. I specialize in creating human-centered architectural solutions through computational studies and modern web development.
 
-- 🔧 Currently working on **Enterprise Software Development** & **System Architecture**
-- 📚 Learning **Advanced System Design** & **DevOps Engineering**  
-- 🤝 Open to collaborate on **Open Source Projects** & **Innovative Solutions**
-- ✍️ Sharing insights on [LinkedIn](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
-- 🎯 **Fun Fact:** I believe in "Happy Coding" - making development enjoyable and impactful!
+- Currently working on **Enterprise Software Development** & **System Architecture**
+- Learning **Advanced System Design** & **DevOps Engineering**  
+- Open to collaborate on **Open Source Projects** & **Innovative Solutions**
+- Sharing insights on [LinkedIn](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
+- **Fun Fact:** I believe in "Happy Coding" - making development enjoyable and impactful!
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,10 +47,14 @@ Passionate software engineer with a unique blend of **construction industry insi
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -64,7 +68,7 @@ Passionate software engineer with a unique blend of **construction industry insi
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -81,12 +85,12 @@ Passionate software engineer with a unique blend of **construction industry insi
 
 ---
 
-## 🎯 Areas of Expertise
+## Areas of Expertise
 
 ```typescript
 const shaheer = {
     specialties: ["Full-Stack Development", "System Architecture", "API Design"],
-    currentFocus: ["Microservices", "Cloud Solutions", "DevOps Practices"],
+    currentFocus: ["Microservices", "Cloud Solutions", "DevOps Practices", "Mobile App Development"],
     architecture: ["Human-Centered Design", "Scalable Systems", "Clean Code"],
     collaboration: ["Agile Methodologies", "Code Reviews", "Technical Leadership"]
 };
@@ -94,14 +98,14 @@ const shaheer = {
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always interested in discussing innovative projects, career opportunities, and tech collaborations!
 
-- 💼 **Portfolio:** [shaheerbyhisollabs.me](https://shaheerbyhisollabs.me/)
-- 📧 **Email:** stansari4500@gmail.com  
-- 💼 **LinkedIn:** [Shaheer Amjad - Software Engineer](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
-- 🐦 **Twitter:** [@dev_shaheer530](https://twitter.com/dev_shaheer530)
+- **Portfolio:** [shaheerbyhisollabs.me](https://shaheerbyhisollabs.me/)
+- **Email:** stansari4500@gmail.com  
+- **LinkedIn:** [Shaheer Amjad - Software Engineer](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
+- **Twitter:** [@dev_shaheer530](https://twitter.com/dev_shaheer530)
 
 ---
 
