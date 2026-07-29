@@ -103,7 +103,7 @@ const shaheer = {
 
 I'm always interested in discussing innovative projects, career opportunities, and tech collaborations!
 
-- **Portfolio:** [shaheerbyhisollabs.me](https://shaheerbyhisollabs.me/)
+- **Portfolio:** [shaheeramjad.app](https://shaheeramjad.netlify.app/)
 - **Email:** stansari4500@gmail.com  
 - **LinkedIn:** [Shaheer Amjad - Software Engineer](https://www.linkedin.com/in/shaheer-amjad-software-engineer/)
 - **Twitter:** [@dev_shaheer530](https://twitter.com/dev_shaheer530)
