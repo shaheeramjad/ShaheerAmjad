@@ -4,8 +4,8 @@
 
 I build and write about dependable business software, backend systems, and practical architecture. I like turning operational complexity into clear workflows that teams can rely on.
 
-[Portfolio](https://shaheerbyhisollabs.me) ·
-[Writing](https://shaheerbyhisollabs.me/articles) ·
+[Portfolio](https://shaheeramjad.netlify.app/) ·
+[Writing](https://shaheeramjad.netlify.app/#writing) ·
 [LinkedIn](https://www.linkedin.com/in/shaheer-amjad-software-engineer/) ·
 [LeetCode](https://leetcode.com/u/dev_shaheer/) ·
 [Email](mailto:stansari4500@gmail.com)
@@ -35,11 +35,11 @@ I build and write about dependable business software, backend systems, and pract
 
 - [Building event-driven microservices with Kubernetes](https://www.linkedin.com/pulse/building-event-driven-microservices-kubernetes-practical-amjad-fmhqf/)
 - [Investigating how vcpkg builds libffi on Windows](https://www.linkedin.com/pulse/investigating-how-vcpkg-builds-libffi-windows-while-metacall-amjad-z2vqf/)
-- [From 10 minutes to 30 seconds: building reports that scale](https://shaheerbyhisollabs.me/articles/building-reports-that-scale)
-- [Practical role-based access control in business software](https://shaheerbyhisollabs.me/articles/practical-role-based-access-control)
-- [Finding slow Entity Framework queries before users do](https://shaheerbyhisollabs.me/articles/finding-slow-entity-framework-queries)
+- [From 10 minutes to 30 seconds: building reports that scale](https://shaheeramjad.netlify.app/articles/building-reports-that-scale)
+- [Practical role-based access control in business software](https://shaheeramjad.netlify.app/articles/practical-role-based-access-control)
+- [Finding slow Entity Framework queries before users do](https://shaheeramjad.netlify.app/articles/finding-slow-entity-framework-queries)
 
-[All articles →](https://shaheerbyhisollabs.me/articles)
+[All articles →](https://shaheeramjad.netlify.app/#writing)
 
 ## Stack
 
@@ -53,4 +53,4 @@ I build and write about dependable business software, backend systems, and pract
 
 ---
 
-<sub>[shaheerbyhisollabs.me](https://shaheerbyhisollabs.me) · [stansari4500@gmail.com](mailto:stansari4500@gmail.com)</sub>
+<sub>[shaheeramjad](https://shaheeramjad.netlify.app/) · [stansari4500@gmail.com](mailto:stansari4500@gmail.com)</sub>
